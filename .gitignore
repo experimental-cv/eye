@@ -1,0 +1,15 @@
+*.csv
+data
+
+.*
+\#*\#
+.\#*
+data
+**/build
+**/data
+compile_commands.json
+*.tex
+*.html
+venv
+*~
+__pycache__
