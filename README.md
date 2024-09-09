@@ -40,7 +40,8 @@ python -i process_data.py slog.csv -s 51
 Again, check out `./process_data.py --help` (and code therein) for possible arguments.
 
 Example output:
-![](close_one_eye.jpg)
+
+![](close_one_eye.png)
 
 Here blue line is the original data (filtered using a smoothing kernel),
 and orange is the data that is filtered and then denoised.
